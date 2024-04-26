@@ -1,6 +1,11 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+body {
+  background-color: #ffffff;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+  font-style: none;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
   text-align: center;
+  gap: 20px;
 }
